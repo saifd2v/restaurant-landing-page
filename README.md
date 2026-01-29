@@ -30,8 +30,8 @@
 ---
 
 ## 📷 Screenshots
-![Offers Section](specialoffers-section.png)  
 ![Menu Section](menu-section.png)  
+![Offers Section](specialoffers-section.png)  
 ![Reservation Form](contact-section.png)  
 
 ---
